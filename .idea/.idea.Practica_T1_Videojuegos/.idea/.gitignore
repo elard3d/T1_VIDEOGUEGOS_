@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.Practica_T1_Videojuegos.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\elard\OneDrive - Universidad Privada del Norte\CURSOS\VIDEOJUEGOS\VIDEOJUEGOS\Unity\Practica_T1_Videojuegos\.idea\.idea.Practica_T1_Videojuegos\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
